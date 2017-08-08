@@ -1,5 +1,5 @@
 {
-	"file": "http://vcg.github.io/upset/data/test/test.csv",
+	"file": "https://raw.githubusercontent.com/ChantalvanSon/CorpusComparison/master/test-upset/all_fileids.csv",
 	"name": "Test",
 	"header": 0,
 	"separator": ";",
