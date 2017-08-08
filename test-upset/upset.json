@@ -1,13 +1,13 @@
 {
 	"file": "https://raw.githubusercontent.com/ChantalvanSon/CorpusComparison/master/test-upset/all_fileids.csv",
-	"name": "Test",
+	"name": "CorpusComparison",
 	"header": 0,
-	"separator": ";",
+	"separator": ",",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "Name" }
+		{ "type": "id", "index": 0, "name": "ID" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 3 }
+		{ "format": "binary", "start": 1, "end": 6 }
 	]
 }
