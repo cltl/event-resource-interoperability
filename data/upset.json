@@ -1,5 +1,5 @@
 {
-	"file": "https://raw.githubusercontent.com/ChantalvanSon/CorpusComparison/master/test-upset/upset_corpora.csv",
+	"file": "https://raw.githubusercontent.com/ChantalvanSon/CorpusComparison/master/data/intersections.csv",
 	"name": "CorpusComparison",
 	"header": 0,
 	"separator": ",",
