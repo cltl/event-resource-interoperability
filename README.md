@@ -19,7 +19,7 @@ Currently, the following annotated corpora are compared (more corpora will be ad
 - Abstract Meaning Representation (AMR) Annotation Release 1.0 ([LDC2014T12](https://catalog.ldc.upenn.edu/LDC2014T12))
 - TDT4 Multilingual Text and Annotations ([LDC2005T16](https://catalog.ldc.upenn.edu/LDC2005T16))
 
-Note that for all multi-lingual recourses, only the English parts have been taken into account.
+Note that for all multi-lingual resources, only the English parts have been taken into account.
 
 ### UpSet Visualization
 
