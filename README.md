@@ -16,6 +16,7 @@ Currently, the following annotated corpora are compared (more corpora will be ad
 - Datasets for Generic Relation Extraction (reACE) ([LDC2011T08](https://catalog.ldc.upenn.edu/LDC2011T08))
 - AQUAINT TimeML ([ELRA-U-W0394](http://universal.elra.info/product_info.php?cPath=42_43&products_id=2333)), also available [here](https://github.com/cnorthwood/ternip/tree/master/sample_data/aquaint_timeml_1.0)
 - Richer Event Description ([LDC2016T23](https://catalog.ldc.upenn.edu/LDC2016T23))
+- Abstract Meaning Representation (AMR) Annotation Release 1.0 ([LDC2014T12](https://catalog.ldc.upenn.edu/LDC2014T12))
 
 Note that for all multi-lingual recourses, only the English parts have been taken into account.
 
