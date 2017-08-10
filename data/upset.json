@@ -1,13 +1,24 @@
 {
-	"file": "https://raw.githubusercontent.com/ChantalvanSon/CorpusComparison/master/data/intersections.csv",
-	"name": "CorpusComparison",
-	"header": 0,
-	"separator": ",",
-	"skip": 0,
-	"meta": [
-		{ "type": "id", "index": 0, "name": "ID" }
-	],
-	"sets": [
-		{ "format": "binary", "start": 1, "end": 7 }
-	]
+    "author": "Chantal van Son",
+    "description": "Overlap of documents in language resources",
+    "file": "https://raw.githubusercontent.com/ChantalvanSon/CorpusComparison/master/data/intersections.csv",
+    "header": 0,
+    "meta": [
+        {
+            "index": 0,
+            "name": "ID",
+            "type": "id"
+        }
+    ],
+    "name": "CorpusComparison",
+    "separator": ",",
+    "sets": [
+        {
+            "end": 9,
+            "format": "binary",
+            "start": 1
+        }
+    ],
+    "skip": 0,
+    "source": "https://github.com/ChantalvanSon/CorpusComparison"
 }
