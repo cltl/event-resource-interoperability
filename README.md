@@ -18,8 +18,7 @@ Currently, the following annotated corpora are compared (more corpora will be ad
 - Richer Event Description ([LDC2016T23](https://catalog.ldc.upenn.edu/LDC2016T23))
 - Abstract Meaning Representation (AMR) Annotation Release 1.0 ([LDC2014T12](https://catalog.ldc.upenn.edu/LDC2014T12))
 - TDT4 Multilingual Text and Annotations ([LDC2005T16](https://catalog.ldc.upenn.edu/LDC2005T16))
-- ECB 1.0 Corpus (used to be available [here](http://faculty.washington.edu/bejan/
-data/ECB1.0.tar.gz), but link has expired)
+- ECB 1.0 Corpus (used to be available [here](http://faculty.washington.edu/bejan/data/ECB1.0.tar.gz), but link has expired)
 - ECB+ Corpus (available at the [NewsReader website](http://www.newsreader-project.eu/results/data/the-ecb-corpus/))
 
 Note that for all multilingual resources, only the English parts have been taken into account.
