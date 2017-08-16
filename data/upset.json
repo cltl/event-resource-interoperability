@@ -1,6 +1,6 @@
 {
     "author": "Chantal van Son",
-    "description": "Overlap of documents in language resources",
+    "description": "Intersections of language resources (document-level)",
     "file": "https://raw.githubusercontent.com/ChantalvanSon/CorpusComparison/master/data/intersections.csv",
     "header": 0,
     "meta": [
@@ -14,7 +14,7 @@
     "separator": ",",
     "sets": [
         {
-            "end": 13,
+            "end": 14,
             "format": "binary",
             "start": 1
         }
