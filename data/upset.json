@@ -14,7 +14,7 @@
     "separator": ",",
     "sets": [
         {
-            "end": 14,
+            "end": 1,
             "format": "binary",
             "start": 1
         }
