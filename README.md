@@ -4,7 +4,7 @@ This repository contains an overview of the document intersections of language r
 
 ### Language Resources
 
-Currently, the filenames of the following annotated corpora are compared (more corpora will be added in the future):
+Currently, the filenames of the following annotated corpora are compared (more corpora may be added in the future):
 
 - Penn TreeBank-3 ([LDC99T42](https://catalog.ldc.upenn.edu/LDC99T42))
 - Proposition Bank I ([LDC2004T14](https://catalog.ldc.upenn.edu/LDC2004T14))
