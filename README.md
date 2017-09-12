@@ -7,7 +7,7 @@ This repository contains an overview of the document intersections of language r
 Currently, the filenames of the following annotated corpora are compared (more corpora may be added in the future):
 
 - Penn TreeBank-3 ([LDC99T42](https://catalog.ldc.upenn.edu/LDC99T42))
-- Proposition Bank I ([LDC2004T14](https://catalog.ldc.upenn.edu/LDC2004T14))
+- Proposition Bank I ([LDC2004T14](https://catalog.ldc.upenn.edu/LDC2004T14)) / NomBank v1.0. ([LDC2008T23](https://catalog.ldc.upenn.edu/LDC2008T23))
 - OntoNotes Release 5.0 ([LDC2013T19](https://catalog.ldc.upenn.edu/LDC2013T19))
 - Abstract Meaning Representation (AMR) Annotation Release 1.0 ([LDC2014T12](https://catalog.ldc.upenn.edu/LDC2014T12))
 - TimeBank 1.2 ([LDC2006T08](https://catalog.ldc.upenn.edu/LDC2006T08))
