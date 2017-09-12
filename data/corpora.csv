@@ -12,7 +12,7 @@ reACE,yes
 RED,yes
 ECB_1.0,yes
 ECB+,yes
-TDT4,no
+TDT4,yes
 Rich_ERE_train,yes
 Light_ERE_train,yes
 EventStatus,yes
