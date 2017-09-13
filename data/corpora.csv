@@ -16,3 +16,5 @@ TDT4,yes
 Rich_ERE_train,yes
 Light_ERE_train,yes
 EventStatus,yes
+LU_Corpus,yes
+FrameNet_1.7,yes
