@@ -23,6 +23,8 @@ Currently, the filenames of the following annotated corpora are compared (more c
 - Light ERE training data (not officially published yet; see [this paper](http://www.aclweb.org/old_anthology/W/W15/W15-0812.pdf))
 - Rich ERE training data (not officially published yet; see [this paper](http://www.aclweb.org/old_anthology/W/W15/W15-0812.pdf))
 - The EventStatus Corpus ([LDC2017T09](https://catalog.ldc.upenn.edu/LDC2017T09))
+- The Language Understanding (LU) Annotation Corpus ([LDC2009T10](https://catalog.ldc.upenn.edu/LDC2009T10))
+- FrameNet 1.7 ([FrameNet website](https://framenet.icsi.berkeley.edu/fndrupal/))
 
 Note that for all multilingual resources, only the English parts have been taken into account. 
 
