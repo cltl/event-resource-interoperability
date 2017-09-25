@@ -9,9 +9,11 @@ Currently, the filenames of the following annotated corpora are compared (more c
 - Penn TreeBank-3 ([LDC99T42](https://catalog.ldc.upenn.edu/LDC99T42))
 - Proposition Bank I ([LDC2004T14](https://catalog.ldc.upenn.edu/LDC2004T14)) / NomBank v1.0 ([LDC2008T23](https://catalog.ldc.upenn.edu/LDC2008T23))
 - OntoNotes Release 5.0 ([LDC2013T19](https://catalog.ldc.upenn.edu/LDC2013T19))
+- FrameNet 1.7 ([FrameNet website](https://framenet.icsi.berkeley.edu/fndrupal/))
 - Abstract Meaning Representation (AMR) Annotation Release 1.0 ([LDC2014T12](https://catalog.ldc.upenn.edu/LDC2014T12))
 - TimeBank 1.2 ([LDC2006T08](https://catalog.ldc.upenn.edu/LDC2006T08))
 - AQUAINT TimeML ([ELRA-U-W0394](http://universal.elra.info/product_info.php?cPath=42_43&products_id=2333)), also available [here](https://github.com/cnorthwood/ternip/tree/master/sample_data/aquaint_timeml_1.0)
+- TempEval-3 ([Task website](https://www.cs.york.ac.uk/semeval-2013/task1/index.html))
 - FactBank 1.0 ([LDC2009T23](https://catalog.ldc.upenn.edu/LDC2009T23))
 - ACE-2 ([LDC2003T11](https://catalog.ldc.upenn.edu/LDC2003T11))
 - ACE 2005 Multilingual Training Corpus ([LDC2006T06](https://catalog.ldc.upenn.edu/LDC2006T06))
@@ -24,7 +26,6 @@ Currently, the filenames of the following annotated corpora are compared (more c
 - Rich ERE training data (not officially published yet; see [this paper](http://www.aclweb.org/old_anthology/W/W15/W15-0812.pdf))
 - The EventStatus Corpus ([LDC2017T09](https://catalog.ldc.upenn.edu/LDC2017T09))
 - The Language Understanding (LU) Annotation Corpus ([LDC2009T10](https://catalog.ldc.upenn.edu/LDC2009T10))
-- FrameNet 1.7 ([FrameNet website](https://framenet.icsi.berkeley.edu/fndrupal/))
 
 Note that for all multilingual resources, only the English parts have been taken into account. 
 
