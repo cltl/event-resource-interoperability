@@ -1,6 +1,7 @@
 corpus_name,analysis
 Treebank_3,yes
-PropBank_I,yes
+PropBank_1.0,yes
+NomBank_1.0,yes
 OntoNotes_5.0,yes
 AMR_1.0,yes
 TimeBank_1.2,yes
