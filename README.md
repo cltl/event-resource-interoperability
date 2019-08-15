@@ -2,9 +2,7 @@
 
 This repository contains an overview of the document intersections of language resources. It is described in the following paper:
 
-```
-Chantal van Son, Oana Inel, Roser Morante, Lora Aroyo and Piek Vossen (2018). Resource Interoperability for Sustainable Benchmarking: The Case of Events. In Proceedings of the 11th International Conference on Language Resources and Evaluation (LREC 2018), Miyazaki, Japan. [pdf](https://www.aclweb.org/anthology/L18-1178)
-```
+> Chantal van Son, Oana Inel, Roser Morante, Lora Aroyo and Piek Vossen (2018). Resource Interoperability for Sustainable Benchmarking: The Case of Events. In Proceedings of the 11th International Conference on Language Resources and Evaluation (LREC 2018), Miyazaki, Japan. [pdf](https://www.aclweb.org/anthology/L18-1178)
 
 
 ### Language Resources
