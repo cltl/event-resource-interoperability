@@ -52,4 +52,4 @@ The intersections of the corpora can be visualized using [UpSet](http://caleydo.
 
 
 
-![box](./images/UpSet_website_cardinality.pdf)
+![box](./images/UpSet_website_cardinality.png)
