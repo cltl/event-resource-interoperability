@@ -1,4 +1,4 @@
-## Corpus Comparison
+## Resource Interoperability between Event-Centric Language Resources
 
 This repository contains an overview of the document intersections of language resources. It is described in the following paper:
 
